@@ -30,7 +30,6 @@ DEBUG = bool( os.environ.get('DJANGO_DEBUG', True) )
 
 ALLOWED_HOSTS = ['salty-tor-14802.herokuapp.com']
 
-
 # Application definition
 
 INSTALLED_APPS = [
